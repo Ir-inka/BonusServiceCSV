@@ -1,0 +1,11 @@
+ "registered user,bonus under limit", 100060, true, 30
+ "registered user,bonus over limit", 100000060, true, 500
+ "registered user,bonus under limit", 100060, false, 10
+ "registered user,bonus under limit", 100000060, false, 500
+ "registered user,bonus under limit", 25000, true, 7
+ "registered user,bonus under limit", 65000582, true, 500
+ "registered user,bonus under limit", 25000, false, 2
+ "registered user,bonus under limit", 65000582, false, 500
+
+
+
